@@ -10,6 +10,7 @@
 [118. Pascal's Triangle](/problems/118.Pascal's_Triangle.md) - 帕斯卡三角形  
 [36. Valid Sudoku](/problems/36.Valid_Sudoku.md) - 有效數獨  
 [74. Search a 2D Matrix](/problems/74.Search_a_2D_Matrix.md) - 搜索二維矩陣  
+[387. First Unique Character in a String](/problems/387.First_Unique_Character_in_a_String.md) - 字符串中的第一個唯一字符
 
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit
 

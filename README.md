@@ -12,6 +12,7 @@
 [74. Search a 2D Matrix](/problems/74.Search_a_2D_Matrix.md) - 搜索二維矩陣  
 [387. First Unique Character in a String](/problems/387.First_Unique_Character_in_a_String.md) - 字符串中的第一個唯一字符  
 [383. Ransom Note](/problems/383.Ransom_Note.md) - 贖金信
+[242. Valid Anagram](/problems/242.Valid_Anagram.md) - 有效的字謎
 
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit
 

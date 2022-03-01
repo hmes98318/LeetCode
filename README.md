@@ -9,3 +9,6 @@
 [566. Reshape the Matrix](/problems/566.Reshape_the_Matrix.md) - 重塑矩陣  
 [118. Pascal's Triangle](/problems/118.Pascal's_Triangle.md) - 帕斯卡三角形  
 [36. Valid Sudoku](/problems/36.Valid_Sudoku.md) - 有效數獨
+
+
+[338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit

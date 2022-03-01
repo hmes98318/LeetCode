@@ -12,3 +12,5 @@
 
 
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit
+
+[1920. Build Array from Permutation](/problems/1920.Build_Array_from_Permutation.md) - 從排列構建數組

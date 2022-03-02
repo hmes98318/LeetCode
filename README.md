@@ -15,6 +15,7 @@
 [242. Valid Anagram](/problems/242.Valid_Anagram.md) - 有效的字謎  
 
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit  
-[392. Is Subsequence](/problems/392.Is_Subsequence.md) - 子序列判斷
+[392. Is Subsequence](/problems/392.Is_Subsequence.md) - 子序列判斷  
 
-[1920. Build Array from Permutation](/problems/1920.Build_Array_from_Permutation.md) - 從排列構建數組
+[1920. Build Array from Permutation](/problems/1920.Build_Array_from_Permutation.md) - 從排列構建數組  
+[1929. Concatenation of Array](/problems/1929.Concatenation_of_Array.md) - 數組串聯

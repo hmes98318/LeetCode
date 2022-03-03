@@ -20,6 +20,7 @@
 [83. Remove Duplicates from Sorted List](/problems/83.Remove_Duplicates_from_Sorted_List.md) - 移除列表重複元素  
 [413. Arithmetic Slices](/problems/413.Arithmetic_Slices.md) - 算術切片  
 [20. Valid Parentheses](/problems/20.Valid_Parentheses.md) - 有效括號  
+[232. Implement Queue using Stacks](/problems/232.Implement_Queue_using_Stacks.md) - 用堆疊(Stack)實現列隊(Queue)  
 
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit  
 [392. Is Subsequence](/problems/392.Is_Subsequence.md) - 子序列判斷  

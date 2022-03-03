@@ -18,6 +18,7 @@
 [203. Remove Linked List Elements](/problems/203.Remove_Linked_List_Elements.md) - 移除列表元素  
 [206. Reverse Linked List](/problems/206.Reverse_Linked_List.md) - 翻轉列表  
 [83. Remove Duplicates from Sorted List](/problems/83.Remove_Duplicates_from_Sorted_List.md) - 移除列表重複元素  
+[413. Arithmetic Slices](/problems/413.Arithmetic_Slices.md) - 算術切片  
 
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit  
 [392. Is Subsequence](/problems/392.Is_Subsequence.md) - 子序列判斷  

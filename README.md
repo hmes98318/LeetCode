@@ -31,7 +31,7 @@
 [112. Path Sum](/problems/112.Path_Sum.md) - 二元樹路徑總和  
 [700. Search in a Binary Search Tree](/problems/700.Search_in_a_Binary_Search_Tree.md) - 二元樹搜尋  
 [701. Insert into a Binary Search Tree](/problems/701.Insert_into_a_Binary_Search_Tree.md) - 二元樹插入  
-[98. Validate Binary Search Tree](/problems/98.Validate_Binary_Search_Tree.md) - 二元樹驗證  
+[98. Validate Binary Search Tree](/problems/98.Validate_Binary_Search_Tree.md) - 二元樹是否成立  
 
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit  
 [392. Is Subsequence](/problems/392.Is_Subsequence.md) - 子序列判斷  

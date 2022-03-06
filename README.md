@@ -27,6 +27,7 @@
 [102. Binary Tree Level Order Traversal](/problems/102.Binary_Tree_Level_Order_Traversal.md) - 二元樹層序遍歷  
 [104. Maximum Depth of Binary Tree](/problems/104.Maximum_Depth_of_Binary_Tree.md) - 二元樹最大深度  
 [101. Symmetric Tree](/problems/101.Symmetric_Tree.md) - 二元樹對稱  
+[226. Invert Binary Tree](/problems/226.Invert_Binary_Tree.md) - 二元樹反轉  
 
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit  
 [392. Is Subsequence](/problems/392.Is_Subsequence.md) - 子序列判斷  

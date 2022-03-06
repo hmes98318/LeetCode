@@ -33,6 +33,7 @@
 [701. Insert into a Binary Search Tree](/problems/701.Insert_into_a_Binary_Search_Tree.md) - 二元樹插入  
 [98. Validate Binary Search Tree](/problems/98.Validate_Binary_Search_Tree.md) - 二元樹是否成立  
 [653. Two Sum IV - Input is a BST](/problems/653.Two_Sum_IV_Input_is_a_BST.md) - 兩數之和 4 (BST)  
+[235. Lowest Common Ancestor of a Binary Search Tree](/problems/235.Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md) - 二元樹最近共同祖先  
 
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit  
 [392. Is Subsequence](/problems/392.Is_Subsequence.md) - 子序列判斷  

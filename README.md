@@ -37,7 +37,7 @@
 
 [704. Binary Search](/problems/704.Binary_Search.md) - 二元搜尋  
 [278. First Bad Version](/problems/278.First_Bad_Version.md) - 第一個壞版本  
-[35. Search Insert Position] - 搜尋插入位置  
+[35. Search Insert Position](/problems/35.Search_Insert_Position.md) - 搜尋插入位置  
 
 
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit  

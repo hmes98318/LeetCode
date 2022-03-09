@@ -35,6 +35,8 @@
 [653. Two Sum IV - Input is a BST](/problems/653.Two_Sum_IV_Input_is_a_BST.md) - 兩數之和 4 (BST)  
 [235. Lowest Common Ancestor of a Binary Search Tree](/problems/235.Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md) - 二元樹最近共同祖先  
 
+[704. Binary Search](/problems/704.Binary_Search.md) - 二元搜尋  
+
 
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit  
 [392. Is Subsequence](/problems/392.Is_Subsequence.md) - 子序列判斷  

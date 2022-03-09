@@ -38,6 +38,7 @@
 [704. Binary Search](/problems/704.Binary_Search.md) - 二元搜尋  
 [278. First Bad Version](/problems/278.First_Bad_Version.md) - 第一個壞版本  
 [35. Search Insert Position](/problems/35.Search_Insert_Position.md) - 搜尋插入位置  
+[977. Squares of a Sorted Array](/problems/977.Squares_of_a_Sorted_Array.md) - 有序數組的平方  
 
 
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit  

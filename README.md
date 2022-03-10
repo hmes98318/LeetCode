@@ -40,6 +40,7 @@
 [35. Search Insert Position](/problems/35.Search_Insert_Position.md) - 搜尋插入位置  
 [977. Squares of a Sorted Array](/problems/977.Squares_of_a_Sorted_Array.md) - 有序數組的平方  
 [189. Rotate Array](/problems/189.Rotate_Array.md) - 旋轉陣列  
+[283. Move Zeroes](/problems/283.Move_Zeroes.md) - 移動零  
 
 
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit  

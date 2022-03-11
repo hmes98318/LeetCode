@@ -42,6 +42,7 @@
 [189. Rotate Array](/problems/189.Rotate_Array.md) - 旋轉陣列  
 [283. Move Zeroes](/problems/283.Move_Zeroes.md) - 移動零  
 [167. Two Sum II - Input Array Is Sorted](/problems/167.Two_Sum_II_Input_Array_Is_Sorted.md) - 兩數之和 2 (輸入有序數組)  
+[344. Reverse String](/problems/344.Reverse_String.md) - 反轉字串  
 
 
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit  

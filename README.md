@@ -57,3 +57,4 @@
 [1920. Build Array from Permutation](/problems/1920.Build_Array_from_Permutation.md) - 從排列構建數組  
 [1929. Concatenation of Array](/problems/1929.Concatenation_of_Array.md) - 數組串聯  
 [2011. Final Value of Variable After Performing Operations](/problems/2011.Final_Value_of_Variable_After_Performing_Operations.md) - 執行操作後變量的最終值  
+[1480. Running Sum of 1d Array](/problems/1480.Running_Sum_of_1d_Array.md) - 一維數組的運行總和  

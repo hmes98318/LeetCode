@@ -48,6 +48,7 @@
 [19. Remove Nth Node From End of List](/problems/19.Remove_Nth_Node_From_End_of_List.md) - 從列表末尾刪除第 n 個節點  
 [733. Flood Fill](/problems/733.Flood_Fill.md) - 洪水填充  
 [46. Permutations](/problems/46.Permutations.md) - 排列  
+[1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](1689.Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers.md) - 劃分成最小數量的十進制二進制數  
 
 
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit  

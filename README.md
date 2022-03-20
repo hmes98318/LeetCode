@@ -60,4 +60,4 @@
 [2011. Final Value of Variable After Performing Operations](/problems/2011.Final_Value_of_Variable_After_Performing_Operations.md) - 執行操作後變量的最終值  
 [1480. Running Sum of 1d Array](/problems/1480.Running_Sum_of_1d_Array.md) - 一維數組的運行總和  
 
-[1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](1689.Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers.md) - 劃分成最小數量的十進制二進制數  
+[1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](/problems/1689.Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers.md) - 劃分成最小數量的十進制二進制數  

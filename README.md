@@ -62,3 +62,4 @@
 [2114. Maximum Number of Words Found in Sentences](/problems/2114.Maximum_Number_of_Words_Found_in_Sentences.md) - 在句子中找到的最大單字數  
 
 [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](/problems/1689.Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers.md) - 劃分成最小數量的十進制二進制數  
+[224. Basic Calculator](/problems/224.Basic_Calculator.md) - 基本計算器  

@@ -1,5 +1,7 @@
 # LeetCode
 
+
+### Data Structure
 [217. Contains_Duplicate](/problems/217.Contains_Duplicate.md) - 存在重複元素  
 [53. Maximum_Subarray](/problems/53.Maximum_Subarray.md) - 最大子數和  
 [1. Two Sum](/problems/1.Two_Sum.md) - 兩數之和  
@@ -35,6 +37,7 @@
 [653. Two Sum IV - Input is a BST](/problems/653.Two_Sum_IV_Input_is_a_BST.md) - 兩數之和 4 (BST)  
 [235. Lowest Common Ancestor of a Binary Search Tree](/problems/235.Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md) - 二元樹最近共同祖先  
 
+### Algorithms
 [704. Binary Search](/problems/704.Binary_Search.md) - 二元搜尋  
 [278. First Bad Version](/problems/278.First_Bad_Version.md) - 第一個壞版本  
 [35. Search Insert Position](/problems/35.Search_Insert_Position.md) - 搜尋插入位置  
@@ -51,7 +54,7 @@
 [617. Merge Two Binary Trees](/problems/617.Merge_Two_Binary_Trees.md) - 合併兩個二元樹  
 [46. Permutations](/problems/46.Permutations.md) - 排列  
 
-
+### Others
 [338. Counting Bits](/problems/338.Counting_Bits.md) - 計算Bit  
 [392. Is Subsequence](/problems/392.Is_Subsequence.md) - 子序列判斷  
 [799. Champagne Tower](/problems/799.Champagne_Tower.md) - 香檳塔  
@@ -65,3 +68,7 @@
 
 [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](/problems/1689.Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers.md) - 劃分成最小數量的十進制二進制數  
 [224. Basic Calculator](/problems/224.Basic_Calculator.md) - 基本計算器  
+
+
+### TypeScript  
+[2635. Apply Transform Over Each Element in Array](/problems/2635.Apply_Transform_Over_Each_Element_in_Array.md) - 對數組中的每個元素應用變換  

@@ -73,5 +73,6 @@
 ### TypeScript  
 [2635. Apply Transform Over Each Element in Array](/problems/2635.Apply_Transform_Over_Each_Element_in_Array.md) - 對數組中的每個元素應用變換  
 [2666. Allow One Function Call](/problems/2666.Allow_One_Function_Call.md) - 允許一個函數調用  
+[1108. Defanging an IP Address](1108.Defanging_an_IP_Address.md) - 破壞 IP 地址  
 
 
